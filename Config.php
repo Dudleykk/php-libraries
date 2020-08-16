@@ -24,4 +24,8 @@ class Config
 
 		return false;
 	}
+
+	public function testFunc(){
+		
+	}
 }
