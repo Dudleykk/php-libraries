@@ -28,8 +28,4 @@ class Config
 	public function testFunc(){
 
 	}
-
-	public function anotherChanges(){
-		
-	}
 }
